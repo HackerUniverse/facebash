@@ -38,6 +38,12 @@ tor
 chmod +x install.sh
 ./install.sh
 ```
+or
+
+apt-get install tor
+
+apt-get install curl
+
 ### Donate!
 Support the authors:
 

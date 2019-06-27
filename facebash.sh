@@ -12,12 +12,7 @@ endline=1
 sumstart=0
 
 
-checkroot() {
-if [[ "$(id -u)" -ne 0 ]]; then
-    printf "\e[1;77mPlease, run this program as root!\n\e[0m"
-    exit 1
-fi
-}
+
 
 checktor() {
 
@@ -248,8 +243,9 @@ done
 
 case "$1" in --resume) resume ;; *)
 
+
 banner
-checkroot
+
 dependencies
 checktor
 start

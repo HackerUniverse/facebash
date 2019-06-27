@@ -45,6 +45,7 @@ printf "\e[1;77m |_  __  _|| |  | (_| || (__ |  __/| |_) || (_| |\__ \| | | | \n
 printf "\e[1;77m   |_||_|  \_|   \__,_| \___| \___||_.__/  \__,_||___/|_| |_| \n\e[0m"
 printf "\n"
 printf "\e[1;104m     Facebash v1.0, Coded by: thelinuxchoice (IG/Github)     \e[0m\n"
+printf "\e[1;104m     Termux Support by : Hacker_Universe (IG | Git | YT )     \e[0m\n"
 printf "\n"
 printf "\e[1;41m                       -=[ WARNING ]=-                       \e[0m\n"
 printf "\n\e[1;77mPlease, keep in mind that Facebook blocks the account for 1 h\n"
